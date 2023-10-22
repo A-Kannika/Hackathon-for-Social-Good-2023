@@ -12,7 +12,7 @@
 
 <body>
         <!-- Sidebar Pages -->
-        <div class="sidebar">
+        <div class="sidebar" id="sidebar">
                 <h2 class="logo">WorkWhereEver</h2>
                 <div class="menus">
                         <a href="#"><ion-icon name="home-outline"></ion-icon> Home</a>
@@ -34,7 +34,7 @@
         </div>
 
         <!-- Main/Center Pages -->
-        <div class="main">
+        <div class="main" id="main">
                 <div class="main-header">
                         <ion-icon class="menu-bar" name="menu-outline"></ion-icon>
                         <div class="search">
@@ -250,7 +250,7 @@
 
         <!-- Right Pages -->
 
-        <div class="detail">
+        <div class="detail" id="detail">
                 <ion-icon class="close-detail" name="close-outline"></ion-icon>
 
                 <!-- Digital Produces Page -->
@@ -272,7 +272,7 @@
                                                 <img src="images/webicon/creativefabrica.webp" alt="">
                                         </div>
                                         <div class="card-detail-right">
-                                                <a href="https://www.creativefabrica.com/" target="_blank">
+                                                <a data-modal-target="#modal">
                                                         <h3 class="web-detail">Creative Fabrica</h3>
                                                 </a>
                                         </div>
@@ -391,7 +391,38 @@
                                 </div>
                         </div>
                 </div>
+        </div>
 
+        <!-- Pop-up detail-->
+        <div class="modal" id="modal">
+                <div class="modal-header">
+                        <div class="modal-logo">
+                                <img src="images/webicon/creativefabrica.webp" alt="">
+                                <h3 class="modal-detail-name">Creative Fabrica</h3>
+                        </div>
+                        <button data-close-button class="close-button">&times;</button>
+                </div>
+                <div class="modal-body">
+                        <h3>Prepare before apply:</h3>
+                        <ul>
+                                <li>Create your products.</li>
+                                <li>Create your portfolio to show your works.</li>
+                        </ul>
+                        <h3>Website link:</h3>
+                        <ul>
+                                <li><a href="https://www.creativefabrica.com/" target="_blank">Creative Fabrica</a></li>
+                        </ul>
+                        <h3>Resources:</h3>
+                        <ul>
+                                <li>You can look for the useful resources, such as free websites to create your
+                                        portfolio and another useful resources under the <a href="#w7">'Resources'</a>.
+                                </li>
+
+                        </ul>
+                </div>
+        </div>
+        <div id=" overlay">
+        </div>
 
 </body>
 <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
