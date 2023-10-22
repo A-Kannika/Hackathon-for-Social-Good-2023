@@ -427,7 +427,7 @@ body {
         width: 500px;
         max-width: 80%; */
 
-        
+        display: none;
         width: 25%;
         min-width: 250px;
         height: 100%;
