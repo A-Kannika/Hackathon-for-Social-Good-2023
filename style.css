@@ -536,6 +536,29 @@ body {
                 display: block;
                 cursor: pointer;
         }
+
+        .modal {
+                display: none;
+        }
+
+        .close-button {
+                display:flex;
+        }
+
+        /* adding click on card to show detail */
+        .modal.active {
+                display: block;
+                width: 100%;
+                z-index: 100;
+        }
+
+        /* adding button close */
+        .modal.active .close-button {
+                display: block;
+                cursor: pointer;
+        }
+
+
 }
 
 

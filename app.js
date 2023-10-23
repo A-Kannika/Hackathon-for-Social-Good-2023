@@ -14,6 +14,14 @@ $(".logo").on("click", function() {
         $(".sidebar").removeClass("active");
 });
 
+$(".detail-card").on("click", function() {
+        $(".modal").addClass("active");
+});
+
+$(".close-button").on("click", function() {
+        $(".modal").removeClass("active");
+});
+
 const openModalButtons = document.querySelectorAll('[data-modal-target]');
 const closeModalButtons = document.querySelectorAll('[data-close-button]')
 const overlay = document.getElementById('overlay');
