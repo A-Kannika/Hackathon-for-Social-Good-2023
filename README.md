@@ -27,11 +27,11 @@ https://hackathon-for-social-good-2023.vercel.app/
 
 ## Website Application Responsive on Small Screen
 
-<p align="center"><kbd><img width="450" src="https://github.com/A-Kannika/Hackathon-for-Social-Good-2023/assets/49578771/23730458-632e-43dc-8e03-e8781e0b4577"></kbd>              
-  <kbd><img width="450" src="https://github.com/A-Kannika/Hackathon-for-Social-Good-2023/assets/49578771/6fb552f0-154d-4c82-9633-0b14af429a8a"></kbd></p>
+<p align="center"><kbd><img width="350" src="https://github.com/A-Kannika/Hackathon-for-Social-Good-2023/assets/49578771/23730458-632e-43dc-8e03-e8781e0b4577"></kbd>              
+  <kbd><img width="350" src="https://github.com/A-Kannika/Hackathon-for-Social-Good-2023/assets/49578771/6fb552f0-154d-4c82-9633-0b14af429a8a"></kbd></p>
 
-<p align="center"><kbd><img width="450" src="https://github.com/A-Kannika/Hackathon-for-Social-Good-2023/assets/49578771/242edb1c-35bd-46c9-bdb2-b404a0ae6505"></kbd>              
-  <kbd><img width="450" src="https://github.com/A-Kannika/Hackathon-for-Social-Good-2023/assets/49578771/2e0f1132-c63d-4d31-91ba-9a1054586c43"></kbd></p>
+<p align="center"><kbd><img width="350" src="https://github.com/A-Kannika/Hackathon-for-Social-Good-2023/assets/49578771/242edb1c-35bd-46c9-bdb2-b404a0ae6505"></kbd>              
+  <kbd><img width="350" src="https://github.com/A-Kannika/Hackathon-for-Social-Good-2023/assets/49578771/2e0f1132-c63d-4d31-91ba-9a1054586c43"></kbd></p>
 
 
 
